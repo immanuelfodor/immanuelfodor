@@ -1,7 +1,7 @@
 ### Hi there, I'm Immánuel! 👋
 
-- 🔭 I’m currently managing the IT development efforts of Andrews
-- 🌱 Actively learning Kubernetes administration
+- 🔭 I’m currently managing IT and organization development efforts
+- 🌱 Although Kubernetes administration is mainly a hobby for me, I took the CKA exam in March, 2021
 - 💬 Ask me about anything on Linkedin or [in this repo](https://github.com/immanuelfodor/immanuelfodor/issues)
 - ⚡ Fun fact: I'm planning to rewrite my Wordpress blog in Hugo
 - 😄 Pronouns: He/Him
