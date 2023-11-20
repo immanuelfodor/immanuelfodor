@@ -1,7 +1,7 @@
 ### Hi there, I'm Immánuel! 👋
 
-- 🔭 I’m currently managing IT and organization development efforts
-- 🌱 Although Kubernetes administration is mainly a hobby for me, I took the CKA exam in March, 2021
+- 🔭 I’m currently Product Manager at [Traefik Labs]([url](https://traefik.io/))
+- 🌱 Certified Kubernetes Administrator (CKA), AWS Certified Cloud Practitioner (AWS CCP), Certified Scrum Master (CSM), Certified Product Manager (PMC-I)
 - 💬 Ask me about anything on Linkedin or [in this repo](https://github.com/immanuelfodor/immanuelfodor/issues)
 - ⚡ Fun fact: I'm planning to rewrite my Wordpress blog in Hugo
 - 😄 Pronouns: He/Him
